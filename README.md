@@ -1,4 +1,4 @@
-![](/kubernetes.png)
+![](/dockericon.png)
 #Setup :+1:
 - Spin up a VM, SSH onto the instance!
 - Install Docker from script `curl -s https://get.docker.com/ | sudo sh` or refer [DockerInstallation](https://docs.docker.com/engine/installation/)
