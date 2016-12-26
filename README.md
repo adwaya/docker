@@ -121,9 +121,6 @@ EXPOSE 53/tcp 53/udp
 - This would unpack assets.zip into /var/www/htdocs/assets
 - However, ADD will not automatically unpack remote archives
 - The **VOLUME** instruction tells Docker that a specific directory should be a volume `VOLUME /var/lib/mysql`
-- The **ENV** instruction specifies environment variables that should be set in any container launched from the image.
-`ENV http_proxy "http://proxy.sin.sap.corp:8080"`
-- This will result in an environment variable being created in any containers created from this image of `ENV http_proxy "http://proxy.sin.sap.corp:8080"`
 - Docker Networking
 - Container Network Model (CNM)
 - The CNM adds the notion of a network, and a new top-level command to manipulate and see those networks: *docker network*
