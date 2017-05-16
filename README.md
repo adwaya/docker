@@ -1,4 +1,4 @@
-# Setup :+1: 
+# Setup :whale: 
 
 ## ![](/dockericon.png)
 - Spin up a VM, SSH onto the instance!
