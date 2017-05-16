@@ -1,5 +1,6 @@
-![](/dockericon.png)
-#Setup :+1: ![](/setup.gif)
+# Setup :+1: 
+
+## ![](/dockericon.png)
 - Spin up a VM, SSH onto the instance!
 - Install Docker from script `curl -s https://get.docker.com/ | sudo sh` or refer [DockerInstallation](https://docs.docker.com/engine/installation/)
 - `sudo usermod -aG docker your-user` If you would like to use *Docker* as a non-root user
